@@ -1,0 +1,118 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.cachefile
+*.opensdf
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.idb
+*.exp
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+*.rsp
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Oo]ut/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+build/
+cmake-build-*/
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.a
+*.o
+*.obj
+*.elf
+*.out
+*.app
+*.hex
+*.map
+
+# NuGet / packages
+*.nupkg
+*.snupkg
+packages/
+vcpkg_installed/
+vcpkg/
+
+# Tests
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+TestResults/
+coverage/
+*.gcno
+*.gcda
+*.gcov
+
+# Qt
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
+
+# ReSharper / VS Code
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.vscode/
+.idea/
+
+# Editors
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Environment
+.env
+*.local
